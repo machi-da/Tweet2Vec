@@ -1,0 +1,10 @@
+__pycache__/
+.idea/
+*.npz
+*.model
+*.vocab
+/*.txt
+*.gz
+*.res
+*.pkl
+model/log.txt
